@@ -1,0 +1,13 @@
+file 'D:/Personal_Projects/reint-assignment/media/frames/01.png'
+duration 4.0
+file 'D:/Personal_Projects/reint-assignment/media/frames/02.png'
+duration 5.0
+file 'D:/Personal_Projects/reint-assignment/media/frames/03.png'
+duration 6.0
+file 'D:/Personal_Projects/reint-assignment/media/frames/04.png'
+duration 5.0
+file 'D:/Personal_Projects/reint-assignment/media/frames/05.png'
+duration 5.0
+file 'D:/Personal_Projects/reint-assignment/media/frames/06.png'
+duration 4.0
+file 'D:/Personal_Projects/reint-assignment/media/frames/06.png'
