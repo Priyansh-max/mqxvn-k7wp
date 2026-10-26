@@ -17,3 +17,5 @@ data/cache/fuelhh_*.json
 !data/cache/.gitkeep
 .vercel/
 *.egg-info/
+
+media/frames/

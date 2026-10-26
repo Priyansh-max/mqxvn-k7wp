@@ -29,9 +29,11 @@
 ## Verified overnight
 
 - [x] Elexon Jan 2026 FUELHH + WINDFOR live fetch
-- [x] API `/api/health` + `/api/overview` locally
-- [x] Frontend production build
-- [x] Public GitHub repo
-- [ ] Docker compose smoke _(run before submit if not green overnight)_
-- [ ] Vercel production URL
-- [ ] YouTube unlisted link
+- [x] API `/api/health` + `/api/overview` locally (uvicorn)
+- [x] Frontend production build (`npm run build`)
+- [x] Public GitHub repo `mqxvn-k7wp` (default branch `main`)
+- [x] Silent demo MP4 + SPEAKER_SCRIPT.md
+- [x] Architecture + assignment brief PDFs
+- [ ] Docker compose smoke — Docker Desktop was not running overnight; start Docker Desktop then `docker compose up --build` and hit http://localhost:8080
+- [ ] Vercel production URL — `vercel login` then `vercel --prod` from repo root (token invalid overnight)
+- [ ] YouTube unlisted link — record from SPEAKER_SCRIPT.md / silent MP4
