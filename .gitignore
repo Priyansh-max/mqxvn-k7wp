@@ -11,7 +11,9 @@ frontend/dist/
 .DS_Store
 .idea/
 .vscode/
-data/cache/*.json
+data/cache/windfor_*.json
+data/cache/fuelhh_*.json
+!data/cache/jan2026_bundle.json
 !data/cache/.gitkeep
 .vercel/
 *.egg-info/

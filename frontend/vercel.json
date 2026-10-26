@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://PLACEHOLDER_API.vercel.app/api/$1" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
