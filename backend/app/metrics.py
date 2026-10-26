@@ -56,8 +56,8 @@ def summarise(paired: list[dict[str, Any]]) -> dict[str, Any]:
         "p90AbsErrorMw": round(p90, 1),
         "residualBandMw": round(p90, 1),
         "interpretation": (
-            f"Size thermal/residual cover ≈ ±{round(p90)} MW around the "
-            f"decision-window wind forecast to cover ~90% of Jan-2026 half-hour errors."
+            f"Size thermal/residual cover about ±{round(p90)} MW around the "
+            f"decision-window wind forecast to cover ~90% of Jan-2026 paired intervals."
         ),
     }
 
